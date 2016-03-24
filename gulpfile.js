@@ -13,7 +13,7 @@ var gulp        = require('gulp'),
     uglify      = require('gulp-uglify');
 
 
-// Definición de direcotrios origen
+// Definición de directorios origen
 var srcPaths = {
     images:   'src/img/',
     scripts:  'src/js/',
